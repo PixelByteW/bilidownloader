@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller
+dist/
+build/
+*.spec.bak
+
+# ffmpeg (139MB, exceeds GitHub 100MB limit)
+ffmpeg/
+
+# Runtime config & logs
+config.json
+error.log
+
+# Test artifacts
+test_out*/
+speedtest*/
+test_q*/
+test_downloaded*/
+*.mp4
+!test_*.py
+
+# GitHub release working dir (exe copies live here, uploaded via Releases only)
+github-release/release/
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini

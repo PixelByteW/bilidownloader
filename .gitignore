@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+*.egg
+.eggs/
+*.whl
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec.bak
+
+# Large binaries (distribute via GitHub Releases only)
+ffmpeg/
+github-release/release/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# App runtime
+config.json
+error.log
+test_out/
+*.mp4
+*.flv
+*.mkv
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
