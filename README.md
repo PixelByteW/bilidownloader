@@ -73,7 +73,9 @@ python main.py
 - 点击 **开始下载**，进度实时显示
 
 <!-- 截图占位：下载过程截图 -->
-![下载过程](screenshots/downloading.png)
+![下载过程](screenshots/downloading1.png)
+![下载过程](screenshots/downloading2.png)
+![下载过程](screenshots/downloading3.png)
 
 ### 4. 命名模板
 
